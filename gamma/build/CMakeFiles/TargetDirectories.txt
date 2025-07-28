@@ -1,0 +1,8 @@
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/gamma.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/Gamma.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/edit_cache.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/rebuild_cache.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/list_install_components.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/install.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/install/local.dir
+/home/long/software/geant4/geant4build/gamma/build/CMakeFiles/install/strip.dir
